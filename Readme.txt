@@ -10,11 +10,6 @@ Integrantes Grupo 05:
 Angie Melissa Ocoro Hurtado - 202310176
 Juan Camilo López Quintana - 202310177
 
-- Archivos y carpetas entregados
-  Informe.pdf
-  Video: https://drive.google.com/drive/folders/1aFzSN2HP4nwohRuB2f_LfqMuAhd_yc28
-  Informe: https://drive.google.com/drive/folders/1SCNNKqE9N9gMWO087qr1CMuJ_fi5WtgT 
-  Analisis: https://drive.google.com/drive/folders/1OXDKruJQjXsBU01a3r5TCKHi9Hp-ZXbu
 
 Instrucciones para ejecutar la aplicación
 Se ejecuta:                  
